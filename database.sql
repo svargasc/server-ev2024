@@ -1,3 +1,12 @@
+username: koxnksjakonx42bjh9dg
+password: pscale_pw_D9uLaJvEw4asFvVaOXXc58Ailzxko8LZUGTbQMi6f7r
+
+database: eventsbrews
+username: koxnksjakonx42bjh9dg
+host: aws.connect.psdb.cloud
+password: pscale_pw_D9uLaJvEw4asFvVaOXXc58Ailzxko8LZUGTbQMi6f7r
+
+
 create database eventsBrews;
 
 use eventsBrews;
